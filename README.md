@@ -13,3 +13,5 @@ Machine learning checkout simulator game/installation for CCI's Creative Computi
 - open port specified at the start of the p5js sketch (sketch.js), (should be last in the dropdown list of ports).
 - refresh the index.html live site.
 - done.  
+
+### Everything needed to re-launch the program should be already open on the Mac Mini inside the plinth.
